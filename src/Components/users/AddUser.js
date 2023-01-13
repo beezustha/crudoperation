@@ -31,6 +31,7 @@ const AddUser = () => {
                     <h2
                         className="text-center mb-4"
                         style={{
+                            color: "black",
                             fontSize: "1.5rem",
                             marginTop: "15px",
                         }}

@@ -1,80 +1,36 @@
 {
-  "users": [
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
+    "users": [
+        {
+            "name": "Bijaya Shrestha",
+            "email": "beezustha@gmail.com",
+            "username": "beezu",
+            "website": "asd@gmail.com",
+            "phone": "123321",
+            "id": 1
+        },
+        {
+            "id": 2,
+            "name": "Pankaj Rajbanshi",
+            "email": "pankaj@gmail.com",
+            "username": "pankaj",
+            "website": "asd@com",
+            "phone": "123321"
+        },
+        {
+            "id": 3,
+            "name": "Kushal",
+            "email": "kushal@gmail.com",
+            "username": "kush",
+            "website": "kushal@s.com",
+            "phone": "21231"
+        },
+        {
+            "id": 4,
+            "name": "Ram",
+            "email": "ram@a.com",
+            "username": "ramu",
+            "website": "ramu@s.com",
+            "phone": "2123123"
         }
-      },
-      "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
-      "address": {
-        "street": "Hoeger Mall",
-        "suite": "Apt. 692",
-        "city": "South Elvis",
-        "zipcode": "53919-4257",
-        "geo": {
-          "lat": "29.4572",
-          "lng": "-164.2990"
-        }
-      },
-      "phone": "493-170-9623 x156",
-      "website": "kale.biz",
-      "company": {
-        "name": "Robel-Corkery",
-        "catchPhrase": "Multi-tiered zero tolerance productivity",
-        "bs": "transition cutting-edge web services"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Mrs. Dennis Schulist",
-      "username": "Leopoldo_Corkery",
-      "email": "Karley_Dach@jasper.info",
-      "address": {
-        "street": "Norberto Crossing",
-        "suite": "Apt. 950",
-        "city": "South Christy",
-        "zipcode": "23505-1337",
-        "geo": {
-          "lat": "-71.4197",
-          "lng": "71.7478"
-        }
-      },
-      "phone": "1-477-935-8478 x6430",
-      "website": "ola.org",
-      "company": {
-        "name": "Considine-Lockman",
-        "catchPhrase": "Synchronised bottom-line interface",
-        "bs": "e-enable innovative applications"
-      }
-    },
-    {
-      "id": 10,
-      "name": "Bijay Shrestha",
-      "email": "beezustha@gmail.com",
-      "website": "asd@com",
-      "phone": "123321"
-    }
-  ]
+    ]
 }
