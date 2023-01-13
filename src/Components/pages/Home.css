@@ -1,0 +1,16 @@
+.icon {
+    font-size: 1.5em;
+    padding: 10px;
+    color: #000000;
+    text-shadow: 1px 1px 1px #ccc;
+}
+
+.table {
+    font-family: "Fira Sans", sans-serif;
+}
+
+.thead-dark {
+    font-size: 1.2rem;
+    background-color: #14375a;
+    color: white;
+}

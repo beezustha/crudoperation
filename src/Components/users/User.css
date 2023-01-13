@@ -1,0 +1,35 @@
+.navbar {
+    font-size: larger;
+}
+
+.card {
+    font-family: "Fira Sans", sans-serif;
+    margin: auto;
+    width: 25%;
+    border: 3px solid #14375a;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+.card-text {
+    text-align: left;
+}
+
+.card-header {
+    background-color: #14375a;
+    color: white;
+    align-items: center;
+    /* margin: 15px; */
+    padding: 10px;
+    font-size: 2rem;
+    font-family: "Fira Sans", sans-serif;
+}
+
+.container {
+    font-family: "Fira Sans", sans-serif;
+}
+
+form-control {
+    margin-bottom: 5px;
+}
