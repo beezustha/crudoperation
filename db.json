@@ -1,36 +1,28 @@
 {
-    "users": [
-        {
-            "name": "Bijaya Shrestha",
-            "email": "beezustha@gmail.com",
-            "username": "beezu",
-            "website": "asd@gmail.com",
-            "phone": "123321",
-            "id": 1
-        },
-        {
-            "id": 2,
-            "name": "Pankaj Rajbanshi",
-            "email": "pankaj@gmail.com",
-            "username": "pankaj",
-            "website": "asd@com",
-            "phone": "123321"
-        },
-        {
-            "id": 3,
-            "name": "Kushal",
-            "email": "kushal@gmail.com",
-            "username": "kush",
-            "website": "kushal@s.com",
-            "phone": "21231"
-        },
-        {
-            "id": 4,
-            "name": "Ram",
-            "email": "ram@a.com",
-            "username": "ramu",
-            "website": "ramu@s.com",
-            "phone": "2123123"
-        }
-    ]
+  "users": [
+    {
+      "name": "Bijaya Shrestha",
+      "email": "beezustha@gmail.com",
+      "username": "beezu",
+      "website": "asd@gmail.com",
+      "phone": "123321",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Pankaj Rajbanshi",
+      "email": "pankaj@gmail.com",
+      "username": "pankaj",
+      "website": "asd@com",
+      "phone": "123321"
+    },
+    {
+      "id": 3,
+      "name": "Kushal",
+      "email": "kushal@gmail.com",
+      "username": "kush",
+      "website": "kushal@s.com",
+      "phone": "21231"
+    }
+  ]
 }

@@ -9,7 +9,7 @@ const User = () => {
         username: "",
         email: "",
         phone: "",
-        webiste: "",
+        website: "",
     });
     const { id } = useParams();
     useEffect(() => {
